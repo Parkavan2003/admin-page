@@ -1,4 +1,5 @@
 Admin Page - Role Management and Permissions Dashboard
+
 This project is an Admin Page designed for managing user roles and permissions. It allows administrators to create, edit, and delete roles, assign specific permissions to them, and view detailed role information. The app is built using React and styled with Tailwind CSS for a clean, responsive user interface.
 
 Features
@@ -16,7 +17,9 @@ Local State Management: Using React's useState for managing roles and permission
 Installation:
 
 git clone https://github.com/your-username/admin-page.git
+
 cd admin-page
+
 npm install
 
 Start the development server:
